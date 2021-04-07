@@ -16111,7 +16111,7 @@ nav {
 }
 @media screen and (max-width: 363px) {
   .navbar-brand {
-    width: 60%;
+    width: 80%;
   }
   .navbar-brand img {
     width: 100%;
