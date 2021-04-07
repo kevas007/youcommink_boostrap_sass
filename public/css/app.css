@@ -16046,6 +16046,52 @@ h3 {
     border-color: #dee2e6;
   }
 }
+nav {
+  background-color: #1a1a1d;
+}
+
+.menu {
+  font-size: 10px;
+  text-align: center;
+}
+
+.texte1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.text {
+  font-size: 25px;
+}
+
+.eclosion {
+  background-color: #334d5c;
+}
+
+.eclosion-text {
+  background-color: #334d5c;
+}
+
+.logo {
+  background-color: #eae3d6;
+}
+
+.evolution-text {
+  background-color: #334d5c;
+  width: 210px;
+}
+
+.envol-text {
+  background-color: #334d5c;
+  width: 150px;
+}
+
+.footer-text {
+  background-color: #1a1a1d;
+  font-size: 10px;
+}
+
 body {
   width: 60%;
   margin: 0 auto;
